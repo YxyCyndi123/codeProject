@@ -1,2 +1,2 @@
 # codeProject
-codeing
+coding
